@@ -1,0 +1,53 @@
+---
+description: >-
+  Приложение позволит записать экзамен сдающего, даже если на какое-то время
+  пропадёт интернет
+---
+
+# Приложение. Письменная и устная  части экзамена
+
+## Где скачать приложение?
+
+Cкачать приложение :[ ](https://www.odin.study/api/migrationExamApp/download/Win32)
+
+[Windows](https://www.odin.study/api/migrationExamApp/download/Win32) &#x20;
+
+[Linux](https://www.odin.study/api/migrationExamApp/download/Linux)&#x20;
+
+или на странице вашей площадки в Odin.
+
+<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+
+## Как установить приложение?
+
+Установите приложение на все компьютеры, где будут проводиться экзамены.
+
+1\. Установите приложение и запомните, куда вы его установили (записи должны сохраняться в каталоге пользователя на системном диске, обычно `C:\\Users\{UserName}\Odin\records`  - сюда сразу после завершения теста попадёт запись экзамена и её сразу же можно будет посмотреть, не дожидаясь кодирования).
+
+<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.17.jpeg" alt=""><figcaption></figcaption></figure>
+
+2\.  Сделайте рекомендованные в приложении настройки, дойдя до страницы ввода кода на экзамен,  - это стартовая страница для сдающих.
+
+<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.26 (1).jpeg" alt=""><figcaption><p>Введите логин и пароль администратора площадки Odin</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.35.jpeg" alt=""><figcaption><p> Проверьте оборудование</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.40.jpeg" alt=""><figcaption><p>Камера и микрофон должны быть включены</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.45.jpeg" alt=""><figcaption><p>Перейдите к экзамены</p></figcaption></figure>
+
+## Старт экзамена. Письменная часть
+
+Настройка завершена, сдающий может приступить к экзамену, введя код.
+
+<figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+
+## Старт экзамена. Устная часть
+
+В меню приложения войдите как сотрудник. Потребуется ввести логин и пароль экзаменатора.
+
+<figure><img src="../.gitbook/assets/telegram-cloud-photo-size-2-5382035562162154497-y.jpg" alt=""><figcaption></figcaption></figure>
+
+### Куда сохранятся видео экзамена?
+
+Видео сохранятся на ПК, где проводилось тестирование/устная часть, обычно в папку C:\Users{UserName}\Odin\records, сразу после завершения экзамена их можно посмотреть. Также автоматически видео будут загружены на страницу Итога экзамена сдающему в Odin (не выключайте компьютер сразу после завершения экзамена, чтобы видео успели попасть в Odin).

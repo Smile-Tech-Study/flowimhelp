@@ -8,7 +8,7 @@ description: >-
 
 
 
-{% tabs %}
+[tabs]
 {% tab title="Windows" %}
 Для того, чтобы изменить уровень громкости в системе:
 

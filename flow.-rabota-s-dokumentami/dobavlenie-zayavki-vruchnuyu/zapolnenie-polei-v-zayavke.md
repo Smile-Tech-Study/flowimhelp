@@ -112,7 +112,7 @@
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-{% tabs %}
+[tabs]
 {% tab title="Миграционная карта" %}
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 

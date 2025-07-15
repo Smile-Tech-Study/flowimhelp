@@ -20,7 +20,7 @@ description: >-
 * из списка экзаменов -> три точки -> Итог экзамена
 * со страницы профиля сдающего -> блок "Статус обучения" -> кликнуть по  "Флажку"
 
-{% tabs %}
+[tabs]
 {% tab title="Из списка экзаменов" %}
 <figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

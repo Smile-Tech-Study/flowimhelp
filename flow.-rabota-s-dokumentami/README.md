@@ -66,11 +66,11 @@ description: >-
 При [создании/редактировании](dobavlenie-zayavki-vruchnuyu/) заявки после заполнения всех данных и загрузки документов будет доступна кнопка "Перейти к оплате". [Подробнее о способах оплаты](../voprosy/flow-sposoby-oplaty/)
 
 <figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:Из ЛК сдающего" %}
 Сдающим из личного кабинета на шаге 8 будет доступна ссылка для оплаты или возможность скачать [квитанцию с QR-кодом](../voprosy/flow-sposoby-oplaty/kak-raspechatat-kvitanciyu-s-qr-kodom-dlya-oplaty.md).
-{% endtab %}
+[/tab]
 {% endtabs %}
 
 :::tip

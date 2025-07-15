@@ -23,11 +23,11 @@ description: >-
 [tabs]
 [tab:Из списка экзаменов" %}
 <figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:Со страницы профиля сдающего" %}
 <figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
 
 2. Выбрать сдающего (кликнуть по ФИО, если он пока не выбран) в списке, перетащить видеовизитку и сохранить.

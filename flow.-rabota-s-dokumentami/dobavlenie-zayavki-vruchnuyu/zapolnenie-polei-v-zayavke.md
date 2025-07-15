@@ -131,7 +131,7 @@
 Необходимо выбрать последний штемпель, чтобы удостовериться, что МК не просрочена.
 
 :::
-{% endtab %}
+[/tab]
 
 [tab:РВП" %}
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
@@ -143,7 +143,7 @@
 * Срок действия РВП
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:ВНЖ" %}
 ВНЖ может быть со сроком действия или бессрочный.
@@ -159,7 +159,7 @@
 * Кем выдан вид на жительство (ВНЖ)
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
 
 ### Блок 6. Персональные данные. Контакты

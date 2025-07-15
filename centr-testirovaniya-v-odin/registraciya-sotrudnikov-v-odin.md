@@ -27,7 +27,7 @@
 <figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 Далее Администратор Центра тестирования может создавать площадки для проведения экзаменов.
-{% endtab %}
+[/tab]
 
 [tab:Администратор площадки" %}
 1. Администратор центра  на странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) добавляет [Площадку](dobavit-ploshadki.md).
@@ -36,12 +36,12 @@
 <figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 3. В блоке "Ответственные лица" вводит почту Администратора площадки и сохраняет
-{% endtab %}
+[/tab]
 
 [tab:Экзаменатор" %}
 Администратор площадки [создаёт экзамен](dobavit-ekzamen.md) и в поле Экзаменатор выбирает экзаменатора.&#x20;
 
 <figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
 

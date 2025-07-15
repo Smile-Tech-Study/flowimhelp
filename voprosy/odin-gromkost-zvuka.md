@@ -17,7 +17,7 @@ description: >-
 3. Выберите вкладку «Уровни» и установите уровень.
 
 <figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:Mac OS" %}
 Для того, чтобы изменить уровень громкости в системе, необходимо открыть настройки, выбрать "Звук"-"Громкость на выходе".
@@ -27,5 +27,5 @@ description: >-
 Также можно это сделать из командной строки, выбрав источник звука.&#x20;
 
 <figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}

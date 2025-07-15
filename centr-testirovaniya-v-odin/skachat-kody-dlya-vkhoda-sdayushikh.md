@@ -5,7 +5,7 @@
 1. Нажать на три точки
 2. Скачать коды
 
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 3. Распечатать, разрезать и раздать сдающим перед экзаменом, когда они займут место в экзаменационном классе.
 

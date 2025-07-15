@@ -69,4 +69,4 @@
 * Наличие клавиатуры
 * Наличие мыши
 
-<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption><p>Пример приёма устной части</p></figcaption></figure>
+![](<../.gitbook/assets/image (272).png" alt=""><figcaption><p>Пример приёма устной части</p></figcaption></figure>

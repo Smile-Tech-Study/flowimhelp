@@ -7,7 +7,7 @@
 3. Выставите дату экзамена, для которого необходима выгрузка
 4. &#x20;Выберите шаблон после 10.12.24.
 
-<figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 

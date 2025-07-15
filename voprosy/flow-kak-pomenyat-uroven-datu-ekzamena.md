@@ -5,7 +5,7 @@
 Уровень экзамена возможно изменить только до момента оплаты.\
 Для этого необходимо открыть страницу заявки и в блоке "Экзамен" нажать на кнопку "Изменить".
 
-<figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -17,7 +17,7 @@
 
 Дату и время  возможно изменить на странице заявки в блоке "Экзамен".
 
-<figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 

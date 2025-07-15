@@ -19,7 +19,7 @@
 * проверить открытые вопросы (можно выставить 0),
 * напротив сдающего, кто "**Неуспешно**" сдал тест, нажать "**+**" = выдать дополнительную попытку.&#x20;
 
-<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 Сдающий сможет войти на экзамен по своему коду повторно и пройти тестирование ещё раз.
 
@@ -29,11 +29,11 @@
 
 1. Открыть страницу редактирования экзамена:
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 2. В блоке  "Настройки контрольной", указать "Количество попыток" - 2,  "Оценка" - "За последнюю попытку".&#x20;
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 Сдающий сможет войти на экзамен по своему коду и повторить тестирование.
 

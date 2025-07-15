@@ -6,8 +6,8 @@
 
 Далее следует зайти на страницу итогов экзамена.
 
-<figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;После надо загрузить файл соответствующему сдающему через дропзону.
 
-<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>

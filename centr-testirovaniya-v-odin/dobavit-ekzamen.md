@@ -5,11 +5,11 @@
 
 1. Добавить Экзамен
 
-<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 2. Выбрать тип экзамена
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 3. Установить дату и время проведения, сохраните.&#x20;
 
@@ -19,7 +19,7 @@
 
 :::
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 4. Для ролей “администратор” и “Сотрудник экзаменационной площадки” реализован механизм[ смены даты экзамена](../voprosy/flow-kak-pomenyat-uroven-datu-ekzamena.md) (потока).
 

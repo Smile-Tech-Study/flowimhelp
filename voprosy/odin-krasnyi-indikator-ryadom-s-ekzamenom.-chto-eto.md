@@ -2,10 +2,10 @@
 
 На странице со списком площадок указано количество экзаменов, которые требуют проверки.
 
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 После открытия страницы площадки индикатор подскажет, где необходимо проверить цифровой след следующего и выставить итог.&#x20;
 
-<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
 Проверяющие  Томского государственного университета будут видеть **индикаторы непроверенных экзаменов и выставлять итог по каждому**.&#x20;

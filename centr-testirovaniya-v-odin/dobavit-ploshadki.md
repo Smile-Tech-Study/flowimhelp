@@ -14,7 +14,7 @@ description: >-
 
 1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) нажмите кнопку "Добавить"&#x20;
 
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 2. Заполните данные о площадке
 3. Назначьте [администратора площадки](registraciya-sotrudnikov-v-odin.md#kak-naznachit-rol)
@@ -33,6 +33,6 @@ description: >-
 
 :::
 
-<figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption><p>Пример заполненной аннотации</p></figcaption></figure>
+![](<../.gitbook/assets/image (302).png" alt=""><figcaption><p>Пример заполненной аннотации</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/Пример автоматического воспроизведения записи в экзамене на Патент.ogg" %}

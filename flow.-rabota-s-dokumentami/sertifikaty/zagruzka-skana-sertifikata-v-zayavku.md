@@ -7,17 +7,17 @@
 * отфильтровать заявки по статусу  "Требуется загрузить сертификат"&#x20;
 * на странице заявки нажать кнопку "Действия с документами", выбрать "Загрузить сертификат".
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 Далее откроется всплывающее окно, в котором надо будет заполнить всю необходимую информацию (серию и номер бланка, регистрационный номер, дата документа, трек-номер, дата отправки), а также прикрепить файл документа сертификата. Нажать на "Сохранить". \
 
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 После успешного прикрепления сертификата заявка  перейдет в статус "Требуется выдать сертификат", а сам сертификат отобразится в блоке Сканы документов.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 Сдающий сможет посмотреть скан документа  в личном кабинете в блоке "Мои документы".
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>

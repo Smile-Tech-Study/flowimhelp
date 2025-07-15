@@ -10,7 +10,7 @@ description: >-
 
 1. Открыть редактор групповых политик, нажмите _win_ + R, ввести команду "gpedit.msc" или воспользоваться поиском Windows.
 
-<figure><img src="../.gitbook/assets/photo_2024-09-25 15.00.03.jpeg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-09-25 15.00.03.jpeg" alt=""><figcaption></figcaption></figure>
 
 2.  В окне редактора групповых политик перейти по следующему пути:&#x20;
 
@@ -19,8 +19,8 @@ description: >-
     ```
 3. Поменять значение пункта "Съемные запоминающие устройства всех классов: Запретить любой доступ" на "Включено".
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 4. После всего необходимо перезагрузить компьютер. При попытке вставить флеш-накопитель в usb-разъем высветится ошибка.&#x20;
 
-<figure><img src="../.gitbook/assets/photo_2024-09-25 15.03.23.jpeg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-09-25 15.03.23.jpeg" alt=""><figcaption></figcaption></figure>

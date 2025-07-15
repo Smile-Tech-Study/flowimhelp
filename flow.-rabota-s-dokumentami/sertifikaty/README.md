@@ -14,15 +14,15 @@
 
 1. Отфильтровать экзамены по столбцу "Статус сертификатов" в статусе "Требуется генерация".
 
-<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
 
 2. Перейти на страницу экзамена, для которого надо сгенерировать сертификат, выбрать вкладку "Сертификаты", нажать на "Импортировать сертификаты".
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 3. Загрузите файл с регистрационными номерами из ФИС ФРДО и нажмите "Сгенерировать".
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -32,7 +32,7 @@
 
 4. После загрузки файла и нажатия на кнопку «Сгенерировать» в таблице появляются данные о регистрационных номерах и датах.
 
-<figure><img src="../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
 Реестровый номер из файла от ФИС ФРДО - это регистрационный номер сертификата.&#x20;
 
@@ -40,11 +40,11 @@
 
 1. Сотрудник центра тестирования распечатывает сертификаты на бланках из типографии.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 1.1 Сохраняете в PDF (скачиваете)&#x20;
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5411510509670359186-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/telegram-cloud-photo-size-2-5411510509670359186-y.jpg" alt=""><figcaption></figcaption></figure>
 
 1.2 В настройках принтера должно быть указано А4 и вертикальное положение.
 
@@ -52,7 +52,7 @@
 
 1.4 Из PDF  сертификаты печатаются на А4 в вертикальном положении
 
-<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,19 +64,19 @@
 
 2. Затем сканирует сертификаты (одним файлом) и загружает во Flow.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 3. Далее потребуется несколько минут чтобы каждый скан сертификата был распознан и добавлен к соответсвующей ему заявке сдающего.
 
-<figure><img src="../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 У каждой заявки на странице экзамена будет информация о  загрузке сертификата.
 
-<figure><img src="../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
 После загрузки сертификата, данные (регистрационный номер, дата выдачи, номер бланка, скан сертификата,) автоматически будут отображены в каждой заявке. Скан сертификата будет доступен в ЛК сдающего.
 

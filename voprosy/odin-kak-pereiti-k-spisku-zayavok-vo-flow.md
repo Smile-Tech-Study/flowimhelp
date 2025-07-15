@@ -2,4 +2,4 @@
 
 На странице экзаменационной площадки в меню экзамена есть пункт "Заявки во Flow". Нажатие на него открывает новую вкладку со страницей заявок в проекте Flow с установленным фильтром по потоку\экзамену.
 
-<figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>

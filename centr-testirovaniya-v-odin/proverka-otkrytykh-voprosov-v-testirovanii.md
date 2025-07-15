@@ -22,28 +22,28 @@
 [tab: Открыть из дашборда экзаменатора" %}
 Открыть дашборд и в блоке "Ожидают проверки" нажать на название Экзамен (Патент/РВП/ВНЖ)&#x20;
 
-<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:Открыть со страницы экзамена" %}
 &#x20;В списке экзаменов на странице площадки кликните по  той записи, где будете проверять
 
-<figure><img src="../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 Кликните по Экзамену
 
-<figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 {% endtabs %}
 
 ### Шаг 2. Разверните запись, в статусе "Ожидает проверки"&#x20;
 
-<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 ### Шаг 3. Откройте попытку
 
-<figure><img src="../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
 ### Шаг 4. Выставите оценку за отрытые вопросы
 
-<figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>

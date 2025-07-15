@@ -2,9 +2,9 @@
 
 При использовании эквайринга по [схеме маркетплейса](./) на странице создания/редактирования заявки после заполнения всех полей будет доступна кнопка "Перейти к оплате", которая откроет форму Т-банка для ввода данных карты.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
 После оплаты заявка перейдёт в статус "Оплачено".
 

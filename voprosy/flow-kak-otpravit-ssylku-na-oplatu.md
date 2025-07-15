@@ -9,4 +9,4 @@
 * показать QR  для оплаты,
 * распечатать qr-код для оплаты (если на площадке оплаты принимают по qr-коду, который оплачивается через банкомат, без использования подключенного эквайринга, то будет только данный пункт).
 
-<figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>

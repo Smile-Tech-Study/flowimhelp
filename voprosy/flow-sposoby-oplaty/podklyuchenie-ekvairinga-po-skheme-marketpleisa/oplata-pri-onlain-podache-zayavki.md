@@ -2,11 +2,11 @@
 
 В личном кабинете сдающего  при использовании эквайринга по [схеме маркетплейса](./) будет кнопка "Оплатить онлайн" (кнопка "Оплатить по квитанции" - это  оплата по qr-коду, такой способ оплаты можно отключить по запросу в техподдержку).
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 После нажатия на кнопку "Оплатить онлайн" откроется форма для ввода данных карты.
 
-<figure><img src="../../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 

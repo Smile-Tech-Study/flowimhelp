@@ -12,7 +12,7 @@
 
 1. Отфильтровать экзамены по столбцу "Статус реестра сертификатов" в статусе "Генерация возможна".
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 2. Перейти на страницу экзамена, для которого генерируется  реестр сертификатов.
 3. Сгенерировать "Реестр выдачи сертификатов".
@@ -23,15 +23,15 @@
 
 :::
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 4. Скачать бланк.&#x20;
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 5. Собрать подписи. Отсканировать реестр и отправить его на проверку.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 ## Проверка реестра выдачи сертификатов
 
@@ -39,11 +39,11 @@
 
 1. открывает страницу со списком экзаменов и фильтрует экзамены по столбцу "Статус реестра сертификатов" по значению "Требуется проверка".
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 2. Открывает экзамен и берёт реестр на проверку.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 3. Подтверждает (переход в статус Одобрен) или отклоняет (потребуется написать причину отклонения, чтобы сотрудник площадки мог исправить замечания и повторно направил реестр на проверку).
 

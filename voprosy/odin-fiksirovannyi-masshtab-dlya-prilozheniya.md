@@ -4,11 +4,11 @@
 
 1. Зайдите в настройки системы&#x20;
 
-<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 2. В выпадающем списке "Масштаб и разметка" выберите требуемый масштаб
 
-<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

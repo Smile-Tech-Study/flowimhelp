@@ -20,11 +20,11 @@
 [tab:Администратор центра тестирования" %}
 На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) необходимо нажать на  карандашик.
 
-<figure><img src="../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 В поле Администраторы найдите сотрудника и сохраните.
 
-<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 Далее Администратор Центра тестирования может создавать площадки для проведения экзаменов.
 [/tab]
@@ -33,7 +33,7 @@
 1. Администратор центра  на странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) добавляет [Площадку](dobavit-ploshadki.md).
 2. На странице созданной Площадки нажимает на кнопку "Редактировать"&#x20;
 
-<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 3. В блоке "Ответственные лица" вводит почту Администратора площадки и сохраняет
 [/tab]
@@ -41,7 +41,7 @@
 [tab:Экзаменатор" %}
 Администратор площадки [создаёт экзамен](dobavit-ekzamen.md) и в поле Экзаменатор выбирает экзаменатора.&#x20;
 
-<figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 {% endtabs %}
 

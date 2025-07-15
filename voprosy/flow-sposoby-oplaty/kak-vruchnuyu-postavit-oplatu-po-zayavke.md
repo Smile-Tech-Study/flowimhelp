@@ -5,12 +5,12 @@
 1. Перейти на страницу заявки
 2. В блоке "Заявка" нажать на кнопку "Изменить"
 
-<figure><img src="../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
 
 3. Поставить галочку "Оплачено" и нажать "Сохранить"
 
-<figure><img src="../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
 
 В списке заявок есть фильтр "Дата проставления оплаты", а также фильтр непосредственно по факту оплаты. Столбец с датой проставления оплаты выгружается в Excel.
 
-<figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>

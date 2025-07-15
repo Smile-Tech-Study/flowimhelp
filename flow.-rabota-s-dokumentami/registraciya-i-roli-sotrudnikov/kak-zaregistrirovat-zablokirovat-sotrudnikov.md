@@ -6,19 +6,19 @@
 
 1\. Открыть  раздел "Пользователи" и нажать кнопку "Создать"
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285519-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285519-y.jpg" alt=""><figcaption></figcaption></figure>
 
 2\. Заполнить ФИО, E-mail (он должен быть уникальным для каждого пользователя) и нажать кнопку "Добавить"
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285520-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285520-y.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. Выбрать роль: "Сотрудник центра тестирования" (Проверяющий)/"Сотрудник экзаменационной площадки" (Работает с документами сдающих и загружает отчетные документы после экзамена)
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285520-y (1).jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285520-y (1).jpg" alt=""><figcaption></figcaption></figure>
 
 4\. Выбрать экзаменационную площадку или площадки , если добавляется роль "сотрудник экзаменационной площадки" или организацию для роли "сотрудник центра тестирования" и "Создать".
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285521-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285521-y.jpg" alt=""><figcaption></figcaption></figure>
 
 :::info
 

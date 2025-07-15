@@ -8,7 +8,7 @@
 * К оплате (в работе)
 * Проверка протоколов (в работе)
 
-<figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -30,13 +30,13 @@
 * Количество записанных заявок за день  (или другой период, указанный в  фильтре "Группировка даты\*")&#x20;
 * Количество обработанных (оплаченных) заявок за день  (или другой период, указанный в  фильтре "Группировка даты\*"), то есть человек пришел на площадку и его заявку обработали , в том числе проставили флаг оплаты.&#x20;
 
-<figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
 
 ### Группировка
 
 Блок "Заявок на экзамен" можно группировать по дате (день/месяц/неделя/год) и  по Типу (уровню) экзамна/Экзаменационной площакдке (если их несколько)/Заявкам, поданным с лендинга .&#x20;
 
-<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -54,25 +54,25 @@
 * по выбранному типу (уровню)/типам экзамена
 * по способу создания: лендинг=удаленная подача заявки
 
-<figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
 1. Блок, выделенный на скрине, покажет статусы заявок в соответствии с установленными фильтрами.
 
-<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 2. Блок, выделенный на скрине, покажет, сколько дней проходит от создания заявки  в соответствии с установленными фильтрами. "Запись вперед" - от даты создания заявки до даты экзамена. (Медиана исключит точечные заявки, когда один человек слишком долго шел от подачи заявки до выбора даты экзамена и покажет более точно среднее время )
 
 Например, заявка создана 20-го февраля, а экзамен выбран на 27 февраля. Для такой заявки значение будет = 7, т.е.  на 7 дней вперед выбран экзамен.
 
-<figure><img src="../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 3. Блок, выделенный на скрине, демонстрирует информацию по экзаменам, где  хоть одна заявка со статусом "ожидаем результаты экзамена" и следующие, доступные после него.
 
-<figure><img src="../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 ### Проверка анкет
 
-<figure><img src="../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
 
 1. Время на проверку  анкеты с созданием на площадке
 

@@ -10,15 +10,15 @@
 
 :::
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 2. Откройте страницу заявки, кликнув на номер.
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 3. На странице заявки в блоке "Сканы документов" откройте каждый документ проверьте его. Если со сканом документа всё в порядке, нажмите "Подтвердить".
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -32,7 +32,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ## Этап 2. Документы для принятия экзамена
 
@@ -42,11 +42,11 @@
 
 1. Заявка переходит в статус  "Требуется проверка заявления" -> сотрудник площадки фильтрует страницу с заявками и открывает заявку.
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 2. &#x20;Проверяет заявление в блоке "Сканы документов". &#x20;
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 :::danger
 
@@ -60,7 +60,7 @@
 
 1.  Отфильтруйте заявки по статусу "Требуется отметить проверку оригиналов документов" и откройте заявку сдающего.
 
-    <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 2. Сверьте оригиналы, принесенные на экзамен с теми, которые загружены во Flow и отметьте "Оригинал документа проверен" для каждого документа или массово для всех документов после сверки.
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>

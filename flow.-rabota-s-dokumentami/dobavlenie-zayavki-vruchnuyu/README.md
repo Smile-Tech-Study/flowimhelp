@@ -2,7 +2,7 @@
 
 Заявку можно добавить в систему со страницы "Заявки на экзамен" или "Главная" (предпочтительнее, так как сразу будет предзаполнено несколько полей). Все дальнейшие изменения в заявке  возможны только на странице редактирования по кнопке "Редактировать".
 
-<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 [tabs]
 [tab:Из списка заявок" %}
@@ -11,14 +11,14 @@
 1. Откройте страницу "Заявки на экзамен"
 2. Создайте заявку&#x20;
 
-<figure><img src="../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:Главная" %}
 1. Откройте страницу "Главная"
 2. Нажмите "+" в экзамене, куда добавляется заявка. "+" будет только в будущих экзаменах, где есть места. [Подробнее](../kvota-na-ekzamen.-gde-posmotret.md)
 
-<figure><img src="../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:По QR-коду  ПВС" %}
@@ -29,17 +29,17 @@
 
 1.  &#x20;переходит на страницу Заявки на экзамен - "Создать заявку по QR-коду".
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
     1. Разрешает использование камеры для [https://flow.migrant-exam.ru/](https://flow.migrant-exam.ru/) (если это не было сделано ранее)
 
 
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
     b. Помещает QR-код в область видимости камеры компьютера.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 С QR-кода считываются данные человека и создается заявка.&#x20;
 
@@ -61,7 +61,7 @@
 
 :::
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 4. После заполнения всех полей можно "Перейти к оплате" или нажать "Оплатить позже"= вернуться в список заявок.
 
@@ -69,8 +69,8 @@
 
 На странице создания/редактирования заявки доступна возможность  распечатать приглашение.
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 Также печать приглашения доступна со страницы заявки и из личного кабинета сдающего.
 
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ description: >-
 
 На [страницу](https://flow.migrant-exam.ru/Export/ExportTemplatesForFisFrdo) добавлен блок "Для неуспешно сдавших".
 
-<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 * Все ФИО выгружаются полностью заглавными буквами, чтобы не было ошибок в больших и маленьких буквах.
 * ФИО подписывающего берется из подписантов организации по тем же правилам, которые действуют в подставлении подписантов в сами сертификаты.

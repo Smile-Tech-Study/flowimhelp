@@ -16,7 +16,7 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 или на странице вашей площадки в Odin.
 
-<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 ## Как установить приложение?
 
@@ -24,29 +24,29 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 1\. Установите приложение и запомните, куда вы его установили (записи должны сохраняться в каталоге пользователя на системном диске, обычно `C:\\Users\{UserName}\Odin\records`  - сюда сразу после завершения теста попадёт запись экзамена и её сразу же можно будет посмотреть, не дожидаясь кодирования).
 
-<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.17.jpeg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.17.jpeg" alt=""><figcaption></figcaption></figure>
 
 2\.  Сделайте рекомендованные в приложении настройки, дойдя до страницы ввода кода на экзамен,  - это стартовая страница для сдающих.
 
-<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.26 (1).jpeg" alt=""><figcaption><p>Введите логин и пароль администратора площадки Odin</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.26 (1).jpeg" alt=""><figcaption><p>Введите логин и пароль администратора площадки Odin</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.35.jpeg" alt=""><figcaption><p> Проверьте оборудование</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.35.jpeg" alt=""><figcaption><p> Проверьте оборудование</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.40.jpeg" alt=""><figcaption><p>Камера и микрофон должны быть включены</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.40.jpeg" alt=""><figcaption><p>Камера и микрофон должны быть включены</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/photo_2024-07-08 15.34.45.jpeg" alt=""><figcaption><p>Перейдите к экзамены</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.45.jpeg" alt=""><figcaption><p>Перейдите к экзамены</p></figcaption></figure>
 
 ## Старт экзамена. Письменная часть
 
 Настройка завершена, сдающий может приступить к экзамену, введя код.
 
-<figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
 ## Старт экзамена. Устная часть
 
 В меню приложения войдите как сотрудник. Потребуется ввести логин и пароль экзаменатора.
 
-<figure><img src="../.gitbook/assets/telegram-cloud-photo-size-2-5382035562162154497-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/telegram-cloud-photo-size-2-5382035562162154497-y.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Куда сохранятся видео экзамена?
 

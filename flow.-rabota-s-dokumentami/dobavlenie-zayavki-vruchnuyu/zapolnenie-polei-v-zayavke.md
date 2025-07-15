@@ -2,7 +2,7 @@
 
 Блок 1. Экзамен
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 **Экзаменационная площадка** – следует выбрать экзаменационную площадку, где сдающий будет проходить экзамен (если у пользователя доступна только одна площадка, то она будет выбрана по умолчанию).&#x20;
 
@@ -12,7 +12,7 @@
 
 ### Блок 2. Персональные данные. Нотариально заверенный перевод документа, удостоверяющего личность
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 Сотрудник экзаменационной площадки начинает заполнение данных по заявке с  данных, указанных в нотариально заверенном переводе паспорта (либо из удостоверения личности, если это гражданин Казахстана и он подает заявку по удостоверению)
 
@@ -73,7 +73,7 @@
 
 Далее сотрудник экзаменационной площадки заполняет данные из  паспорта/документа, удостоверяющего личность.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 **Фамилия на латинице**  заполняется  на латинице из документа, удостоверяющего личность.
 
@@ -90,7 +90,7 @@
 * документ о постановке на миграционный учет,&#x20;
 * основание регистрации (штамп в паспорте или в ВНЖ)
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 **Регион** -  в выпадающем списке необходимо выбрать регион РФ, где зарегистрирован сдающий. Например, Томская область, Красноярский край или Луганская Народная Республика.
 
@@ -110,11 +110,11 @@
 * РВП
 * ВНЖ
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 [tabs]
 [tab:Миграционная карта" %}
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 **Серия** - 4 верхние цифры на миграционной карте
 
@@ -134,7 +134,7 @@
 [/tab]
 
 [tab:РВП" %}
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 РВП -  печать в паспорте. Необходимо заполнить:
 
@@ -142,13 +142,13 @@
 * Дату принятия решения
 * Срок действия РВП
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:ВНЖ" %}
 ВНЖ может быть со сроком действия или бессрочный.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 В соответствии с документов заполняются следующие поля:
 
@@ -158,13 +158,13 @@
 * Срок действия вида на жительство (ВНЖ)/отмечается галочка "ВНЖ Бессрочный"
 * Кем выдан вид на жительство (ВНЖ)
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 {% endtabs %}
 
 ### Блок 6. Персональные данные. Контакты
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Контакты заполняются со слов сдающего или можно попросить написать их на бумаге, затем напечатать в соответствующих полях.
 
@@ -179,13 +179,13 @@
 
 В данном блоке  на основании заполненных выше данных  будет сгенерировано заявление для сдающего. Его необходимо распечатать и дать человеку ознакомиться и подписать.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ### Загрузка сканов документов
 
 Все документы, предоставленные сдающим, необходимо отсканировать и загрузить в соответствующее окошко и нажать "Загрузить".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 1. **Нотариально заверенный перевод паспорта -** переводы могут быть разных форматов. Бывают переводы, где всего один лист, на котором все сразу есть и данные паспорта переведенные, и печать и копия первой страницы паспорта (самый простой) – тогда достаточно сделать только скан этого всего перевода, но бывают и переводы на 2 и более страниц. \
    Важно, чтобы был скан переведенных данных и скан нотариального заверения перевода. Для больших полных переводов допускается делать дополнительно скан первой страницы (где скан разворота паспорта с персональными данными, которые затем будут в документе переведены), но эта страница является необязательной, т.к. не во всех переводах она присутствует.

@@ -9,7 +9,7 @@ description: >-
 
 
 [tabs]
-{% tab title="Windows" %}
+[tab:Windows" %}
 Для того, чтобы изменить уровень громкости в системе:
 
 1. На панель управления нажмите "Звук".
@@ -19,7 +19,7 @@ description: >-
 <figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Mac OS" %}
+[tab:Mac OS" %}
 Для того, чтобы изменить уровень громкости в системе, необходимо открыть настройки, выбрать "Звук"-"Громкость на выходе".
 
 <figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>

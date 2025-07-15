@@ -113,7 +113,7 @@
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 [tabs]
-{% tab title="Миграционная карта" %}
+[tab:Миграционная карта" %}
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 **Серия** - 4 верхние цифры на миграционной карте
@@ -133,7 +133,7 @@
 :::
 {% endtab %}
 
-{% tab title="РВП" %}
+[tab:РВП" %}
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 РВП -  печать в паспорте. Необходимо заполнить:
@@ -145,7 +145,7 @@
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="ВНЖ" %}
+[tab:ВНЖ" %}
 ВНЖ может быть со сроком действия или бессрочный.
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>

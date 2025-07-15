@@ -5,7 +5,7 @@
 <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 [tabs]
-{% tab title="Из списка заявок" %}
+[tab:Из списка заявок" %}
 
 
 1. Откройте страницу "Заявки на экзамен"
@@ -14,14 +14,14 @@
 <figure><img src="../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Главная" %}
+[tab:Главная" %}
 1. Откройте страницу "Главная"
 2. Нажмите "+" в экзамене, куда добавляется заявка. "+" будет только в будущих экзаменах, где есть места. [Подробнее](../kvota-na-ekzamen.-gde-posmotret.md)
 
 <figure><img src="../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="По QR-коду  ПВС" %}
+[tab:По QR-коду  ПВС" %}
 Иностранный гражданин обращается в окно ПВС, приносит туда все необходимые документы, ему выдают QR-код. \
 Этот код необходимо предоставить сотруднику экзаменационной площадки.&#x20;
 

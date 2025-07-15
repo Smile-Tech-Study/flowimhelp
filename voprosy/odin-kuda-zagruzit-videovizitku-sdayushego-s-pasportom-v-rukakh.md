@@ -21,11 +21,11 @@ description: >-
 * со страницы профиля сдающего -> блок "Статус обучения" -> кликнуть по  "Флажку"
 
 [tabs]
-{% tab title="Из списка экзаменов" %}
+[tab:Из списка экзаменов" %}
 <figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Со страницы профиля сдающего" %}
+[tab:Со страницы профиля сдающего" %}
 <figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

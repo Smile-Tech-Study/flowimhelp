@@ -10,7 +10,8 @@
 
 <figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Отчёт по патенту/разрешению на работу не будет собержать столбца "Говорение". Говорение - устная часть экзамена на РВП и ВНЖ.
 
 :::

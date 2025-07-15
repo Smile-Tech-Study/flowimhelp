@@ -7,7 +7,8 @@
 
 <figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Если во время замены типа экзамена уже была выбрана дата проведения, необходимо будет выбрать новую дату и повторно [распечатать бланк заявления](../flow.-rabota-s-dokumentami/pechat-i-zagruzka-zayavlenii.md) с новыми датой/временем и подписать "Заявление".&#x20;
 
 :::
@@ -18,7 +19,8 @@
 
 <figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Изменить дату и время возможно только до того момента пока в  Odin на странице "Итог экзамена" не выставлен статус Сдал/ Не сдал.
 
 

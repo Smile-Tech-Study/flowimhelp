@@ -8,7 +8,8 @@
 
 <figure><img src="../../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 При оплате допускается использовать только карты российских банков.
 
 :::

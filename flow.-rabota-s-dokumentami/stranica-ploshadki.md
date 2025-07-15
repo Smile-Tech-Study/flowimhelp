@@ -12,7 +12,8 @@
 
 <figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Участники экзаменационной комиссии - это вторая вкладка на странице площадки. Информация из неё передаётся на страницу экзамена и необходима при отправке на проверку [протокола](protokol-ekzamena.-statusy-protokola.md) и генерации [ведомости](vedomost-po-itogam-ekzamena.-statusy-vedomosti.md).
 
 :::

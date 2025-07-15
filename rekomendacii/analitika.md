@@ -10,7 +10,8 @@
 
 <figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Любой график или таблицу можно скачать в  Excel и провести необходимую работу, если это потребуется.
 
 :::
@@ -37,7 +38,8 @@
 
 <figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 В легенде будет указан параметр и его цвет в диаграмме.
 
 :::

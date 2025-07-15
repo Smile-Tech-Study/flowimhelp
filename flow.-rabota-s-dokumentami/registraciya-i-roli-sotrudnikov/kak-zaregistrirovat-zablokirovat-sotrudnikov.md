@@ -20,7 +20,8 @@
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5249304455487285521-y.jpg" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Поле "Основание для выдачи роли" не обязательно для заполнения. Ранее туда добавлялись служебные записки.
 
 :::

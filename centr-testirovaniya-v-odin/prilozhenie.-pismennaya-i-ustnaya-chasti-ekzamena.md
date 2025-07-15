@@ -28,13 +28,13 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 2\.  Сделайте рекомендованные в приложении настройки, дойдя до страницы ввода кода на экзамен,  - это стартовая страница для сдающих.
 
-![](<../.gitbook/assets/photo_2024-07-08 15.34.26 (1).jpeg" alt=""><figcaption><p>Введите логин и пароль администратора площадки Odin</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.26 (1).jpeg> "Введите логин и пароль администратора площадки Odin</p></figcaption></figure>
 
-![](<../.gitbook/assets/photo_2024-07-08 15.34.35.jpeg" alt=""><figcaption><p> Проверьте оборудование</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.35.jpeg> " Проверьте оборудование</p></figcaption></figure>
 
-![](<../.gitbook/assets/photo_2024-07-08 15.34.40.jpeg" alt=""><figcaption><p>Камера и микрофон должны быть включены</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.40.jpeg> "Камера и микрофон должны быть включены</p></figcaption></figure>
 
-![](<../.gitbook/assets/photo_2024-07-08 15.34.45.jpeg" alt=""><figcaption><p>Перейдите к экзамены</p></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.45.jpeg> "Перейдите к экзамены</p></figcaption></figure>
 
 ## Старт экзамена. Письменная часть
 

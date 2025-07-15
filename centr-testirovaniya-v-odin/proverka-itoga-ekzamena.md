@@ -4,22 +4,22 @@
 
 1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) открыть Экзаменационную площадку. Счётчик подскажет, сколько экзаменов требуют проверки.
 
-![](<../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (303).png>)
 
 2. На странице Экзаменационной площадки в строке с Экзаменом для проверки нажать три точки и выбрать "Итог экзамена". Красный кружок подскажет, какие экзамены требуют проверки.
 
-![](<../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (304).png>)
 
 3. Просмотреть запись/записи экзамена по каждому сдающему
 
-![](<../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (306).png>)
 
 4. Выставить статус экзамена и сохранить.
 
-![](<../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (307).png>)
 
 ***
 
 Если для проверки экзамена требуется посмотреть ответы, которые давал сдающий и баллы, которые выставил экзаменатор за открытые вопросы, можно кликнуть на наименование экзамена и [посмотреть ответы по инструкции](proverka-otkrytykh-voprosov-v-testirovanii.md#otkryt-so-stranica-ekzamena).
 
-![](<../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (195).png>)

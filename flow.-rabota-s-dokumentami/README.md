@@ -65,7 +65,7 @@ description: >-
 [tab:При создании/редактировании заявки" %}
 При [создании/редактировании](dobavlenie-zayavki-vruchnuyu/) заявки после заполнения всех данных и загрузки документов будет доступна кнопка "Перейти к оплате". [Подробнее о способах оплаты](../voprosy/flow-sposoby-oplaty/)
 
-![](<../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (347).png>)
 [/tab]
 
 [tab:Из ЛК сдающего" %}

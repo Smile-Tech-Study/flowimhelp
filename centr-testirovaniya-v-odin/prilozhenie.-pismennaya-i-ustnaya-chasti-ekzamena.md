@@ -16,7 +16,7 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 или на странице вашей площадки в Odin.
 
-![](<../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (296).png>)
 
 ## Как установить приложение?
 
@@ -24,7 +24,7 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 1\. Установите приложение и запомните, куда вы его установили (записи должны сохраняться в каталоге пользователя на системном диске, обычно `C:\\Users\{UserName}\Odin\records`  - сюда сразу после завершения теста попадёт запись экзамена и её сразу же можно будет посмотреть, не дожидаясь кодирования).
 
-![](<../.gitbook/assets/photo_2024-07-08 15.34.17.jpeg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-07-08 15.34.17.jpeg>)
 
 2\.  Сделайте рекомендованные в приложении настройки, дойдя до страницы ввода кода на экзамен,  - это стартовая страница для сдающих.
 
@@ -40,13 +40,13 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 Настройка завершена, сдающий может приступить к экзамену, введя код.
 
-![](<../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (264).png>)
 
 ## Старт экзамена. Устная часть
 
 В меню приложения войдите как сотрудник. Потребуется ввести логин и пароль экзаменатора.
 
-![](<../.gitbook/assets/telegram-cloud-photo-size-2-5382035562162154497-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/telegram-cloud-photo-size-2-5382035562162154497-y.jpg>)
 
 ### Куда сохранятся видео экзамена?
 

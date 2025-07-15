@@ -6,11 +6,11 @@
 
 В списке  Экзаменационных площадок  будут все те, к которым есть доступ.&#x20;
 
-![](<../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (356).png>)
 
 **Сотрудник центра тестирования** имеет доступ к заполнению и последующему редактированию данных и **должен следить** за их **актуальностью**. Все данные со страницы площадки используются для генерации документов, отображения на [сайте](https://www.migrant-exam.ru/) и в [личном кабинете сдающего](https://informa.gitbook.io/exam/lk-sdayushego.-poetapnoe-zapolnenie-dokumentov).&#x20;
 
-![](<../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (359).png>)
 
 :::info
 

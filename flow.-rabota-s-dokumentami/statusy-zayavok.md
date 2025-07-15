@@ -36,4 +36,4 @@
 
 На странице со списком заявок есть возможность отфильтровать заявки по статусу.&#x20;
 
-![](<../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (396).png>)

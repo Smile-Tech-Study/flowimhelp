@@ -6,4 +6,4 @@
 
 &#x20;
 
-![](<../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (132).png>)

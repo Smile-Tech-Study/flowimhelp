@@ -4,9 +4,9 @@
 
 Для того чтобы скачать протокол экзамена необходимо на странице со списком экзаменов нажать три точки и выбрать "Итог обучения", затем открыть "Протокол экзамена".
 
-![](<../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (10).png>)
 
-![](<../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (11).png>)
 
 ![](<../.gitbook/assets/image (12).png" alt=""><figcaption><p>Пример протокола экзамена (ВНЖ, РВП). Начало экзамена - время начала попытки теста. Окончание экзамена - время завершения студентом письменной части (момент завершения прохождения теста).</p></figcaption></figure>
 
@@ -21,8 +21,8 @@
 3. При необходимости сократить ширину некоторых столбцов.
 4. При печати можно указать "Узкие поля", чтобы корректно распечатать документ.
 
-![](<../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (177).png>)
 
 
 
-![](<../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (178).png>)

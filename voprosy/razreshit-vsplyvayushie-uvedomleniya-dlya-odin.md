@@ -6,7 +6,7 @@
 [tab:Google Chrome" %}
 Перейти в Настройки -> Конфиденциальность и безопасность -> Настройки сайта -> Всплывающие окна и переадресация  и добавить  https://www.odin.study/
 
-![](<../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (167).png>)
 [/tab]
 
 [tab:Яндекс.Браузер" %}

@@ -2,13 +2,13 @@
 
 1. На странице со списком экзаменов перейдите в Итоги.
 
-![](<../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (186).png>)
 
 2. Скачайте отчёт.
 
-![](<../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (187).png>)
 
-![](<../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (188).png>)
 
 :::info
 

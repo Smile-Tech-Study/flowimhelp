@@ -14,7 +14,7 @@ description: >-
 
 1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) нажмите кнопку "Добавить"&#x20;
 
-![](<../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (223).png>)
 
 2. Заполните данные о площадке
 3. Назначьте [администратора площадки](registraciya-sotrudnikov-v-odin.md#kak-naznachit-rol)

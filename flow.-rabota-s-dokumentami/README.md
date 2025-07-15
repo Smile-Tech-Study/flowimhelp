@@ -69,7 +69,8 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-{% hint style="success" %}
+:::tip
+
 После оплаты сдающий попадает в Odin. :tada: Можно [скачать коды](../centr-testirovaniya-v-odin/skachat-kody-dlya-vkhoda-sdayushikh.md) для сдачи экзамена.
 {% endhint %}
 

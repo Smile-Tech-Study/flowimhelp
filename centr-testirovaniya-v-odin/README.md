@@ -32,6 +32,7 @@ description: >-
 15. [Проверить открытые вопросы](proverka-otkrytykh-voprosov-v-testirovanii.md) Сдающего, если они не были проверены в приложении.
 16. Выставить [итог по экзамену](proverka-itoga-ekzamena.md) (выставляется администратором центра тестирования)
 
-{% hint style="success" %}
+:::tip
+
 Для быстрого доступа к Центру тестирования закрепите его в боковом меню <img src="../.gitbook/assets/image (217).png" alt="" data-size="original">
 {% endhint %}

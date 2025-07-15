@@ -2,7 +2,8 @@
 
 Регистрация сотрудников **Центра тестирования** доступна  по ссылке [https://www.odin.study/ru/Account/Register](https://www.odin.study/ru/Account/Register)
 
-{% hint style="success" %}
+:::tip
+
 **После свободной регистрации в Odin сотруднику можно назначить роль.**
 {% endhint %}
 

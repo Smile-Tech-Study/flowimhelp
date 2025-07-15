@@ -33,6 +33,6 @@ description: >-
 
 :::
 
-![](<../.gitbook/assets/image (302).png> "Пример заполненной аннотации</p></figcaption></figure>
+![](<../.gitbook/assets/image (302).png> "Пример заполненной аннотации")
 
 {% file src="../.gitbook/assets/Пример автоматического воспроизведения записи в экзамене на Патент.ogg" %}

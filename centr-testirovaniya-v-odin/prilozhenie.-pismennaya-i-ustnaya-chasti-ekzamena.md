@@ -10,9 +10,9 @@ description: >-
 
 Cкачать приложение :[ ](https://www.odin.study/api/migrationExamApp/download/Win32)
 
-[Windows](https://www.odin.study/api/migrationExamApp/download/Win32) &#x20;
+[Windows](https://www.odin.study/api/migrationExamApp/download/Win32) 
 
-[Linux](https://www.odin.study/api/migrationExamApp/download/Linux)&#x20;
+[Linux](https://www.odin.study/api/migrationExamApp/download/Linux)
 
 или на странице вашей площадки в Odin.
 

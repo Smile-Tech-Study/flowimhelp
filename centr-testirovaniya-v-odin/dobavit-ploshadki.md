@@ -12,7 +12,7 @@ description: >-
 
 :::
 
-1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) нажмите кнопку "Добавить"&#x20;
+1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) нажмите кнопку "Добавить"
 
 ![](<../.gitbook/assets/image (223).png>)
 

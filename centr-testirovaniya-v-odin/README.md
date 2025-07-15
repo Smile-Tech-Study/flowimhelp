@@ -35,4 +35,5 @@ description: >-
 :::tip
 
 Для быстрого доступа к Центру тестирования закрепите его в боковом меню <img src="../.gitbook/assets/image (217).png" alt="" data-size="original">
-{% endhint %}
+
+:::

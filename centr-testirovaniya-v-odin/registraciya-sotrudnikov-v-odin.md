@@ -1,3 +1,7 @@
+---
+{}
+---
+
 # Регистрация сотрудников в Odin
 
 Регистрация сотрудников **Центра тестирования** доступна  по ссылке [https://www.odin.study/ru/Account/Register](https://www.odin.study/ru/Account/Register)
@@ -44,4 +48,3 @@
 ![](<../.gitbook/assets/image (253).png>)
 [/tab]
 {% endtabs %}
-

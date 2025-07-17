@@ -41,11 +41,15 @@ title: Добавление заявки вручную
 
    ![](./dobavlenie-zayavki-vruchnuyu-4.png){width=768px height=300px}
 
-        **a.** Разрешает использование камеры для <https://flow.migrant-exam.ru/> (если это не было сделано ранее)
+   ```
+    **a.** Разрешает использование камеры для <https://flow.migrant-exam.ru/> (если это не было сделано ранее)
+   ```
 
 ![](./dobavlenie-zayavki-vruchnuyu-5.png){width=768px height=341px}
 
-         **b.** Помещает QR-код в область видимости камеры компьютера.
+```
+     **b.** Помещает QR-код в область видимости камеры компьютера.
+```
 
 ![](./dobavlenie-zayavki-vruchnuyu-6.png){width=768px height=306px}
 
@@ -63,7 +67,7 @@ title: Добавление заявки вручную
 
 
 
- **3\.** Заполните данные сдающего и загрузите сканы его документов. [Подробнее о заполнении каждого поля](https://informa.gitbook.io/immigraciya/flow.-rabota-s-dokumentami/dobavlenie-zayavki-vruchnuyu/zapolnenie-polei-v-zayavke).
+**3\.** Заполните данные сдающего и загрузите сканы его документов. [Подробнее о заполнении каждого поля](https://informa.gitbook.io/immigraciya/flow.-rabota-s-dokumentami/dobavlenie-zayavki-vruchnuyu/zapolnenie-polei-v-zayavke).
 
 :::info 
 
@@ -73,9 +77,7 @@ title: Добавление заявки вручную
 
 ![](./dobavlenie-zayavki-vruchnuyu-7.png){width=768px height=1108px}
 
- 
-
-**4\.** После заполнения всех полей можно "Перейти к оплате" или нажать "Оплатить позже"= вернуться в список заявок.
+**4\.** После заполнения всех полей можно "Перейти к оплате" или нажать "Оплатить позже"= вернуться в список заявок.
 
 \--
 

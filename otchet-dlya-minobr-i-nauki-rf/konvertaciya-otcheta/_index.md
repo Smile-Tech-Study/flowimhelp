@@ -5,7 +5,7 @@ title: Конвертация отчета
 
 Для загрузки[ еженедельного отчета для Министерства науки и высшего образования РФ](https://informa.gitbook.io/otchet-dlya-minobrnauki-rf) требуется CSV UTF-8(разделители-запятые).
 
-![](./konvertaciya-otcheta.png){width=529px height=585px}
+![](./_index.png){width=529px height=585px}
 
 
 
@@ -15,15 +15,15 @@ title: Конвертация отчета
 
 2. Щелкнуть правой кнопкой мыши на файле и выбрать "Открыть с помощью" --> "Блокнот".
 
-   ![](./konvertaciya-otcheta-2.png){width=761px height=606px}
+   ![](./_index-2.png){width=761px height=606px}
 
 3. В Блокноте перейти в меню "Файл" и выбрать "Сохранить как...".
 
-   ![](./konvertaciya-otcheta-3.png){width=1068px height=608px}
+   ![](./_index-3.png){width=1068px height=608px}
 
 4. В открывшемся окне выбрать "Кодировка" и установите значение "UTF-8 с спецификацией".
 
-   ![](./konvertaciya-otcheta-4.png){width=1059px height=611px}
+   ![](./_index-4.png){width=1059px height=611px}
 
 5. В поле "Имя файла" добавить в конце название файла ".csv" (например, "отчет.csv").
 

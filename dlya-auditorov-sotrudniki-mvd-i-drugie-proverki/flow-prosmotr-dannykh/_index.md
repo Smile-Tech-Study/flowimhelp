@@ -7,7 +7,7 @@ title: Flow. Просмотр данных
 
 "Расширенные фильтры" откроют больше полей для поиска и фильтрации заявок по выбранным критериям.
 
-![](./flow-prosmotr-dannykh.png){width=2304px height=1009px}
+![](./_index.png){width=2304px height=1009px}
 
 
 

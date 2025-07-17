@@ -1,25 +1,28 @@
 ---
 order: 3
+title: Разрешить всплывающие уведомления для Odin
 ---
 
-# Разрешить всплывающие уведомления для Odin
-
-Для того, чтобы разрешить https://www.odin.study/ показывать всплывающие окна, необходимо:
+Для того, чтобы разрешить <https://www.odin.study/> показывать всплывающие окна, необходимо:
 
 [tabs]
-[tab:Google Chrome]
-Перейти в Настройки -> Конфиденциальность и безопасность -> Настройки сайта -> Всплывающие окна и переадресация  и добавить  https://www.odin.study/
 
-![](<../.gitbook/assets/image (167).png>)
+[tab:Google Chrome]
+
+Перейти в Настройки -> Конфиденциальность и безопасность -> Настройки сайта -> Всплывающие окна и переадресация и добавить <https://www.odin.study/>
+
+![](./razreshit-vsplyvayushie-uvedomleniya-dlya-odin.png){width=768px height=205px}
+
 [/tab]
 
 [tab:Яндекс.Браузер]
-В Яндекс браузере открываем «Настройки», раздел «Сайты» и кликаем на пункт "Расширенные настройки сайтов". Находим пункт «Всплывающие окна» и ставим точку напротив «Разрешены» и нажимаем «Настройки сайтов», добавляем [https://www.odin.study/](https://www.odin.study/)
 
-![](<../.gitbook/assets/image (168).png" alt="" width="375"><figcaption></figcaption></figure>
+В Яндекс браузере открываем «Настройки», раздел «Сайты» и кликаем на пункт "Расширенные настройки сайтов". Находим пункт «Всплывающие окна» и ставим точку напротив «Разрешены» и нажимаем «Настройки сайтов», добавляем <https://www.odin.study/>
 
-![](<../.gitbook/assets/image (172).png" alt="" width="356"><figcaption></figcaption></figure>
+![](./razreshit-vsplyvayushie-uvedomleniya-dlya-odin-2.png){width=762px height=555px}
 
-![](<../.gitbook/assets/image (171).png" alt="" width="375"><figcaption></figcaption></figure>
+![](./razreshit-vsplyvayushie-uvedomleniya-dlya-odin-3.png){width=711px height=451px}
+
 [/tab]
-{% endtabs %}
+
+[/tabs]

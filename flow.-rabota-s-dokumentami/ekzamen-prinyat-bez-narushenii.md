@@ -11,13 +11,13 @@ order: 10
 
 -  зайти в каждую заявку и блоке Экзамен и нажать на "Изменить".
 
--  ![](./ekzamen-prinyat-bez-narushenii.png){width=768px height=244px}
+   ![](./ekzamen-prinyat-bez-narushenii.png){width=1105px height=352px}
 
 -  во всплывающем окне можно поставить галочку, что экзамен принят без нарушений/ либо оставить комментарий о нарушениях.
 
 -  после внесения информации следует нажать на "Сохранить".
 
--  ![](./ekzamen-prinyat-bez-narushenii-2.png){width=426px height=227px}
+   ![](./ekzamen-prinyat-bez-narushenii-2.png){width=426px height=227px}
 
 ---
 

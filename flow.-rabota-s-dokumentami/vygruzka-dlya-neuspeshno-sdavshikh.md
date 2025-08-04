@@ -10,7 +10,7 @@ order: 13
 
 На [страницу](https://flow.migrant-exam.ru/Export/ExportTemplatesForFisFrdo) добавлен блок "Для неуспешно сдавших".
 
-![](<../.gitbook/assets/image (373).png>)
+![](./vygruzka-dlya-neuspeshno-sdavshikh.png){width=768px height=294px}
 
 -  Все ФИО выгружаются полностью заглавными буквами, чтобы не было ошибок в больших и маленьких буквах.
 

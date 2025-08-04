@@ -11,7 +11,7 @@ order: 12
 
 2. В выпадающем списке "Масштаб и разметка" выберите требуемый масштаб
 
-![](<../.gitbook/assets/image (311).png>)
+   ![](./odin-fiksirovannyi-masshtab-dlya-prilozheniya-2.png){width=768px height=482px}
 
 ---
 

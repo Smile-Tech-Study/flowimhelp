@@ -18,7 +18,7 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 или на странице вашей площадки в Odin.
 
-![](<./image (296).png>)
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena.png){width=1736px height=1108px}
 
 ## Как установить приложение?
 
@@ -26,29 +26,31 @@ Cкачать приложение :[ ](https://www.odin.study/api/migrationExam
 
 1\. Установите приложение и запомните, куда вы его установили (записи должны сохраняться в каталоге пользователя на системном диске, обычно `C:\\Users\{UserName}\Odin\records`  - сюда сразу после завершения теста попадёт запись экзамена и её сразу же можно будет посмотреть, не дожидаясь кодирования).
 
-![](<./photo_2024-07-08 15.34.17.jpeg>)
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-2.png){width=496px height=386px}
 
 2\.  Сделайте рекомендованные в приложении настройки, дойдя до страницы ввода кода на экзамен,  - это стартовая страница для сдающих.
 
-![](<./photo_2024-07-08 15.34.26 (1).jpeg> "Введите логин и пароль администратора площадки Odin")
 
-![](<./photo_2024-07-08 15.34.35.jpeg> " Проверьте оборудование")
 
-![](<./photo_2024-07-08 15.34.40.jpeg> "Камера и микрофон должны быть включены")
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-3.png "Введите логин и пароль администратора площадки Odin"){width=532px height=475px}
 
-![](<./photo_2024-07-08 15.34.45.jpeg> "Перейдите к экзамены")
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-4.png "Проверьте оборудование"){width=571px height=513px}
+
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-5.png "Камера и микрофон должны быть включены"){width=562px height=611px}
+
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-6.png "Перейдите к экзамену"){width=917px height=745px}
 
 ## Старт экзамена. Письменная часть
 
 Настройка завершена, сдающий может приступить к экзамену, введя код.
 
-![](<./image (264).png>)
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-7.png){width=2304px height=1224px}
 
 ## Старт экзамена. Устная часть
 
 В меню приложения войдите как сотрудник. Потребуется ввести логин и пароль экзаменатора.
 
-![](./telegram-cloud-photo-size-2-5382035562162154497-y.jpg)
+![](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena-8.png){width=1280px height=875px}
 
 ### Куда сохранятся видео экзамена?
 

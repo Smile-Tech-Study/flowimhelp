@@ -16,7 +16,7 @@ order: 0.66
 
 1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) нажмите кнопку "Добавить"
 
-   ![](./dobavit-ploshadki.png){width=768px height=276px}
+   ![](./dobavit-ploshadki.png){width=2044px height=736px}
 
 2. Заполните данные о площадке
 
@@ -36,6 +36,6 @@ order: 0.66
 
 :::
 
-![](./image%20(302).png "Пример заполненной аннотации")
+![](./dobavit-ploshadki-2.png){width=964px height=622px}
 
 [Пример-автоматического-воспроизведения-записи-в-экзамене-на-Патент.mp3](./%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8-%D0%B2-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%9F%D0%B0%D1%82%D0%B5%D0%BD%D1%82.mp3)

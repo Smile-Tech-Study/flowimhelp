@@ -142,7 +142,7 @@ order: 1
 
 1. Для регистрации пользователей в системе Flow  необходимо предоставить письмо со списком сотрудников (служебную записку на имя руководителя вашего центра тестирования), их электронными почтами и ролями, которые они будут выполнять в системе. Подробнее [здесь](./flow.-rabota-s-dokumentami/registraciya-i-roli-sotrudnikov/_index).
 
-2. Предоставить техническим специалистам данные [организации](./flow.-rabota-s-dokumentami/organizaciya) и [площадки](./flow.-rabota-s-dokumentami/stranica-ploshadki#na-starte-raboty-neobkhodimo-soobshit-v-tekhpodderzhku-sleduyushuyu-informaciyu) для настройки их в системе Flow.
+2. Предоставить техническим специалистам данные [организации](./flow.-rabota-s-dokumentami/organizaciya) и [площадки](https://app.gram.ax/github.com/Smile-Tech-Study/Flow_-IM_help/main/-/flow.-rabota-s-dokumentami/stranica-ploshadki) для настройки их в системе Flow.
 
 3. Дополнить необходимую информацию в карточке [площадки](./flow.-rabota-s-dokumentami/stranica-ploshadki) в системе Flow.
 

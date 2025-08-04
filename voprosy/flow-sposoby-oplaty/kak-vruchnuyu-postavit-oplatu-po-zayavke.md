@@ -13,8 +13,8 @@ order: 3
 
 3. Поставить галочку "Оплачено" и нажать "Сохранить"
 
-![](<../../.gitbook/assets/image (361).png>)
+   ![](./kak-vruchnuyu-postavit-oplatu-po-zayavke-2.png){width=768px height=427px}
 
 В списке заявок есть фильтр "Дата проставления оплаты", а также фильтр непосредственно по факту оплаты. Столбец с датой проставления оплаты выгружается в Excel.
 
-![](<../../.gitbook/assets/image (389).png>)
+![](./kak-vruchnuyu-postavit-oplatu-po-zayavke-3.png){width=768px height=441px}

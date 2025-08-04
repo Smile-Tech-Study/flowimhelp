@@ -7,4 +7,4 @@ order: 4
 
 Во Flow фиксируются все заявки по каждому, кто сдавал или записывался на экзамен. Администратор сможет работать только с активной заявкой человека.
 
-![](<../.gitbook/assets/image (132).png>)
+![](./flow-aktivnaya-neaktivnaya-zayavka.-chto-eto.png){width=768px height=376px}

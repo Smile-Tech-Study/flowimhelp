@@ -3,16 +3,14 @@ title: Odin Что делать, если запись не загрузилас
 order: 13
 ---
 
-# Odin Что делать, если запись не загрузилась автоматически?
-
 При проведении экзамена через приложение Odin, случаются ситуации, когда запись может не загрузиться автоматически в Odin.
 
 Но всегда это можно сделать вручную. Файлы с видео сохраняются на компьютере, обычно это каталог пользователя на системном диске  (`C:\\Users\{UserName}\Odin\records).`
 
 Далее следует зайти на страницу итогов экзамена.
 
-![](<../.gitbook/assets/image (267).png>)
+![](./odin-chto-delat-esli-zapis-ne-zagruzilas-avtomaticheski.png){width=768px height=470px}
 
 После надо загрузить файл соответствующему сдающему через дропзону.
 
-![](<../.gitbook/assets/image (266).png>)
+![](./odin-chto-delat-esli-zapis-ne-zagruzilas-avtomaticheski-2.png){width=768px height=733px}

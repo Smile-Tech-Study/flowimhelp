@@ -9,9 +9,9 @@ order: 8
 
 2. Скачайте отчёт.
 
-![](<../.gitbook/assets/image (187).png>)
+   ![](./odin-gde-posmotret-otchet-po-ballam-2.png){width=768px height=211px}
 
-![](<../.gitbook/assets/image (188).png>)
+   ![](./odin-gde-posmotret-otchet-po-ballam-3.png){width=768px height=151px}
 
 :::info 
 

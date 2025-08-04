@@ -1,8 +1,6 @@
 ---
-order: 0.3
+order: 2
 title: Flow Способы оплаты
 ---
 
 [view:hierarchy=none::::List]
-
-

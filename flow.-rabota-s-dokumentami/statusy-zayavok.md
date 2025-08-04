@@ -62,4 +62,4 @@ order: 6
 
 На странице со списком заявок есть возможность отфильтровать заявки по статусу.
 
-![](<../.gitbook/assets/image (396).png>)
+![](./statusy-zayavok.png){width=768px height=309px}

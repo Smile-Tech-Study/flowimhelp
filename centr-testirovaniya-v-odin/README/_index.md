@@ -13,7 +13,7 @@ order: 0.1
 
 1. Добавить [Площадку](./../dobavit-ploshadki)
 
-2. Добавить [Экзамен](./../dobavit-ekzamen) и [Экзаменатора](./../registraciya-sotrudnikov-v-odin#ekzamenator)
+2. Добавить [Экзамен](./../dobavit-ekzamen) и [Экзаменатора](https://app.gram.ax/github.com/Smile-Tech-Study/Flow_-IM_help/main/-/centr-testirovaniya-v-odin/registraciya-sotrudnikov-v-odin)
 
 3. Скачать и распечатать [код для входа](./../skachat-kody-dlya-vkhoda-sdayushikh) сдающих (в Odin заявки попадут через пол часа после того, как будет совершена оплата экзамена)
 

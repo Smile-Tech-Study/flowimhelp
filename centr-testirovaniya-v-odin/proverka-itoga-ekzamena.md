@@ -7,22 +7,22 @@ order: 0.96
 
 1. На странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) открыть Экзаменационную площадку. Счётчик подскажет, сколько экзаменов требуют проверки.
 
-   ![](./proverka-itoga-ekzamena.png){width=768px height=482px}
+   ![](./proverka-itoga-ekzamena.png){width=1674px height=1052px}
 
 2. На странице Экзаменационной площадки в строке с Экзаменом для проверки нажать три точки и выбрать "Итог экзамена". Красный кружок подскажет, какие экзамены требуют проверки.
 
-   ![](./proverka-itoga-ekzamena-2.png){width=768px height=540px}
+   ![](./proverka-itoga-ekzamena-2.png){width=1548px height=1090px}
 
 3. Просмотреть запись/записи экзамена по каждому сдающему
 
-   ![](./proverka-itoga-ekzamena-3.png){width=768px height=525px}
+   ![](./proverka-itoga-ekzamena-3.png){width=1100px height=752px}
 
 4. Выставить статус экзамена и сохранить.
 
-   ![](./proverka-itoga-ekzamena-4.png){width=768px height=306px}
+   ![](./proverka-itoga-ekzamena-4.png){width=1098px height=438px}
 
 ---
 
 Если для проверки экзамена требуется посмотреть ответы, которые давал сдающий и баллы, которые выставил экзаменатор за открытые вопросы, можно кликнуть на наименование экзамена и [посмотреть ответы по инструкции](https://app.gram.ax/github.com/Smile-Tech-Study/Flow_-IM_help/main/-/centr-testirovaniya-v-odin/proverka-otkrytykh-voprosov-v-testirovanii).
 
-![](./image%20(195).png)
+![](./proverka-itoga-ekzamena-5.png){width=1544px height=614px}

@@ -20,8 +20,8 @@ order: 16
 
 3. Поменять значение пункта "Съемные запоминающие устройства всех классов: Запретить любой доступ" на "Включено".
 
-   ![](./kak-otklyuchit-usb-port-dlya-raspoznavaniya-fleshki-2.png){width=768px height=409px}
+   ![](./kak-otklyuchit-usb-port-dlya-raspoznavaniya-fleshki-2.png){width=1279px height=682px}
 
 4. После всего необходимо перезагрузить компьютер. При попытке вставить флеш-накопитель в usb-разъем высветится ошибка.
 
-![](../.gitbook/assets/photo_2024-09-25%2015.03.23.jpeg)
+   ![](./kak-otklyuchit-usb-port-dlya-raspoznavaniya-fleshki-3.png){width=346px height=157px}

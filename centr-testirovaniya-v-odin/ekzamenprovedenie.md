@@ -3,7 +3,7 @@ description: >-
   Тестирование проводится для всех уровней экзамена: Патент/Разрешение на
   работу, РВП,  ВНЖ. Устная чать только для экзаменов РВП и ВНЖ
 order: 0.8
-title: Экзамен. Проведение
+title: Экзамен.Проведение
 ---
 
 Тестирование проводится для всех уровней экзамена: Патент/Разрешение на работу, РВП, ВНЖ. Устная часть только для экзаменов РВП и ВНЖ
@@ -54,7 +54,7 @@ title: Экзамен. Проведение
 
 *  {% colwidth=[361] %}
 
-   ![](./ekzamen.-provedenie.png){width=900px height=478px}
+   ![](./ekzamenprovedenie.png){width=900px height=478px}
 
 ---
 
@@ -64,7 +64,7 @@ title: Экзамен. Проведение
 
 *  {% colwidth=[361] %}
 
-   ![](./ekzamen.-provedenie-2.png){width=900px height=480px}
+   ![](./ekzamenprovedenie-2.png){width=900px height=480px}
 
 ---
 
@@ -80,7 +80,7 @@ title: Экзамен. Проведение
 
 *  {% colwidth=[361] %}
 
-   ![](./ekzamen.-provedenie-3.png){width=900px height=676px}
+   ![](./ekzamenprovedenie-3.png){width=900px height=676px}
 
 ---
 
@@ -90,7 +90,7 @@ title: Экзамен. Проведение
 
 *  {% colwidth=[361] %}
 
-   ![](./ekzamen.-provedenie-4.png){width=900px height=480px}
+   ![](./ekzamenprovedenie-4.png){width=900px height=480px}
 
 ---
 
@@ -100,7 +100,7 @@ title: Экзамен. Проведение
 
 *  {% colwidth=[361] %}
 
-   ![](./ekzamen.-provedenie-5.png){width=900px height=478px}
+   ![](./ekzamenprovedenie-5.png){width=900px height=478px}
 
 ---
 
@@ -110,7 +110,7 @@ title: Экзамен. Проведение
 
 *  {% colwidth=[361] %}
 
-   ![](./ekzamen.-provedenie-6.png){width=900px height=475px}
+   ![](./ekzamenprovedenie-6.png){width=900px height=475px}
 
 {% /table %}
 
@@ -118,7 +118,7 @@ title: Экзамен. Проведение
 
 Результаты прохождения тестов размещены в активности. Там же отображается информация о всех попытках и о том, сколько и за какую часть теста экзаменуемый получил баллов.
 
-![](./ekzamen.-provedenie-7.png){width=565px height=302px}
+![](./ekzamenprovedenie-7.png){width=565px height=302px}
 
 Если сдающий уже проходил экзамен по определенному типу, то при повторной сдаче экзамена ему не попадется вариант, который уже попадался до этого.
 
@@ -152,7 +152,7 @@ title: Экзамен. Проведение
 
    **Экзаменатор** после [установки приложения](https://informa.gitbook.io/immigraciya/centr-testirovaniya-v-odin/prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena) на ПК, где будет проходить устная часть, входит "как сотрудник"
 
-*  ![](./ekzamen.-provedenie-8.png){width=900px height=615px}
+*  ![](./ekzamenprovedenie-8.png){width=900px height=615px}
 
 ---
 
@@ -166,7 +166,7 @@ title: Экзамен. Проведение
 
    **Экзаменатор** выбирает экзамен (будут только экзамены текущего дня) и приглашает к себе сдающего
 
-*  ![](./ekzamen.-provedenie-9.png){width=900px height=474px}
+*  ![](./ekzamenprovedenie-9.png){width=900px height=474px}
 
 ---
 
@@ -174,19 +174,19 @@ title: Экзамен. Проведение
 
    **Экзаменатор** кликает по микрофону, напротив человека, которого пригласили к себе для сдачи устной части.
 
-*  ![](./ekzamen.-provedenie-10.png){width=900px height=476px}
+*  ![](./ekzamenprovedenie-10.png){width=900px height=476px}
 
 ---
 
 *  **Экзаменатор** совместно со **сдающим** записывают [видеовизитку](https://informa.gitbook.io/immigraciya/rekomendacii/obrazec-videovizitki-pered-startom-ustnoi-chasti-ekzamena) на камеру ПК и начинают устную часть. Кнопка "Следующий вопрос" откроет его. В вопросе 3 для РВП или 4 для ВНЖ будет кнопка "Завершить" = Завершение устной части для этого сдающего.
 
-*  ![](./ekzamen.-provedenie-11.png){width=900px height=481px}
+*  ![](./ekzamenprovedenie-11.png){width=900px height=481px}
 
 ---
 
 *  **Экзаменатор** может отпустить сдающего, сразу выставить баллы за вопросы устной части и проверить вопросы письменной или позвать следующего сдающего, затем выставить баллы всем участникам экзамена.
 
-*  ![](./ekzamen.-provedenie-12.png){width=900px height=476px}
+*  ![](./ekzamenprovedenie-12.png){width=900px height=476px}
 
 ---
 

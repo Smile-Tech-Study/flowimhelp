@@ -10,7 +10,7 @@ title: Экзамен.Проведение
 
 :::info 
 
-Во время инструктажа сдающий получает [код](https://informa.gitbook.io/immigraciya/centr-testirovaniya-v-odin/skachat-kody-dlya-vkhoda-sdayushikh) для входа на экзамен
+Во время инструктажа сдающий получает [код ](./skachat-kody-dlya-vkhoda-sdayushikh)для входа на экзамен
 
 :::
 
@@ -32,7 +32,7 @@ title: Экзамен.Проведение
 
 ## **Тестирование**
 
-На компьютерах сдающих должно быть установлено и запущено [приложение](https://informa.gitbook.io/immigraciya/centr-testirovaniya-v-odin/prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena), включена русская раскладка клавиатуры. Экзамен не может длиться менее 10 минут, завершить его ранее технически нельзя.
+На компьютерах сдающих должно быть установлено и запущено [приложение](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena), включена русская раскладка клавиатуры. Экзамен не может длиться менее 10 минут, завершить его ранее технически нельзя.
 
 {% table header="row" %}
 
@@ -150,7 +150,7 @@ title: Экзамен.Проведение
 
 *  
 
-   **Экзаменатор** после [установки приложения](https://informa.gitbook.io/immigraciya/centr-testirovaniya-v-odin/prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena) на ПК, где будет проходить устная часть, входит "как сотрудник"
+   **Экзаменатор** после установки [приложения](./prilozhenie.-pismennaya-i-ustnaya-chasti-ekzamena) на ПК, где будет проходить устная часть, входит "как сотрудник"
 
 *  ![](./ekzamenprovedenie-8.png){width=900px height=615px}
 
@@ -178,7 +178,7 @@ title: Экзамен.Проведение
 
 ---
 
-*  **Экзаменатор** совместно со **сдающим** записывают [видеовизитку](https://informa.gitbook.io/immigraciya/rekomendacii/obrazec-videovizitki-pered-startom-ustnoi-chasti-ekzamena) на камеру ПК и начинают устную часть. Кнопка "Следующий вопрос" откроет его. В вопросе 3 для РВП или 4 для ВНЖ будет кнопка "Завершить" = Завершение устной части для этого сдающего.
+*  **Экзаменатор** совместно со **сдающим** записывают видеовизитку на камеру ПК и начинают устную часть. Кнопка "Следующий вопрос" откроет его. В вопросе 3 для РВП или 4 для ВНЖ будет кнопка "Завершить" = Завершение устной части для этого сдающего.
 
 *  ![](./ekzamenprovedenie-11.png){width=900px height=481px}
 
@@ -195,3 +195,5 @@ title: Экзамен.Проведение
 *  
 
 {% /table %}
+
+

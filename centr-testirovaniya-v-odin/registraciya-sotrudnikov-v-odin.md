@@ -39,7 +39,7 @@ title: Регистрация сотрудников в Odin
 
 [tab:Администратор площадки]
 
-1. Администратор центра на странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) добавляет [Площадку](https://informa.gitbook.io/immigraciya/centr-testirovaniya-v-odin/dobavit-ploshadki).
+1. Администратор центра на странице [Центра тестирования](https://www.odin.study/ru/Division/Info/2924) добавляет Площадку.
 
 2. На странице созданной Площадки нажимает на кнопку "Редактировать"
 

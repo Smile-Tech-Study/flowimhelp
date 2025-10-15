@@ -40,7 +40,7 @@ order: 1
 
 5. подключение кабельного интернета к каждому рабочему месту в классе тестирования.
 
-[Требования к оборудованию](./rekomendacii/ekzamenacionnyi-kabinet)
+[Требования к оборудованию](./rekomendacii/obrazec-videovizitki-pered-startom-ustnoi-chasti-ekzamena)
 
 :::info 
 

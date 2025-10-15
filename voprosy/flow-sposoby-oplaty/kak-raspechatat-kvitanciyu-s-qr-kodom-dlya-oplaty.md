@@ -11,4 +11,6 @@ order: 2
 
 ![](./kak-raspechatat-kvitanciyu-s-qr-kodom-dlya-oplaty-2.png){width=768px height=601px}
 
-Далее сотрудник площадки [выставляет факт](./kak-vruchnuyu-postavit-oplatu-po-zayavke) [оплаты](./kak-vruchnuyu-postavit-oplatu-po-zayavke) в заявке.
+Далее сотрудник площадки [выставляет факт](./kak-vruchnuyu-postavit-oplatu-po-zayavke) оплаты в заявке.
+
+

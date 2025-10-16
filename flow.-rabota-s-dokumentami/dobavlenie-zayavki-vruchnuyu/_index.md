@@ -67,7 +67,7 @@ title: Добавление заявки вручную
 
 
 
-**3\.** Заполните данные сдающего и загрузите сканы его документов. [Подробнее о заполнении каждого поля](https://informa.gitbook.io/immigraciya/flow.-rabota-s-dokumentami/dobavlenie-zayavki-vruchnuyu/zapolnenie-polei-v-zayavke).
+**3\.** Заполните данные сдающего и загрузите сканы его документов. [Подробнее о заполнении каждого поля.](./zapolnenie-polei-v-zayavke)
 
 :::info 
 

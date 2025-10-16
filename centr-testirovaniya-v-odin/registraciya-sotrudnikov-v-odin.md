@@ -51,7 +51,7 @@ title: Регистрация сотрудников в Odin
 
 [tab:Экзаменатор]
 
-Администратор площадки [создаёт экзамен](https://informa.gitbook.io/immigraciya/centr-testirovaniya-v-odin/dobavit-ekzamen) и в поле Экзаменатор выбирает экзаменатора.
+Администратор площадки [создаёт экзамен](./dobavit-ekzamen) и в поле Экзаменатор выбирает экзаменатора.
 
 ![](./registraciya-sotrudnikov-v-odin-4.png){width=768px height=530px}
 

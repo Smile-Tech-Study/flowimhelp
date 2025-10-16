@@ -21,7 +21,7 @@ title: Печать и загрузка заявлений
 
 [tab:При создании заявки]
 
-1. Создайте [заявку](https://informa.gitbook.io/immigraciya/flow.-rabota-s-dokumentami/dobavlenie-zayavki-vruchnuyu)
+1. Создайте [заявку](./dobavlenie-zayavki-vruchnuyu/_index)
 
 2. Заполните блоки "Экзамен" и "Персональные данные" и "Распечатайте заявление".
 

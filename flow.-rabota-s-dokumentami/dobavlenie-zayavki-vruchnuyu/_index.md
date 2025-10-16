@@ -25,7 +25,7 @@ title: Добавление заявки вручную
 
 1. Откройте страницу "Главная"
 
-2. Нажмите "+" в экзамене, куда добавляется заявка. "+" будет только в будущих экзаменах, где есть места. [Подробнее](https://informa.gitbook.io/immigraciya/flow.-rabota-s-dokumentami/kvota-na-ekzamen.-gde-posmotret)
+2. Нажмите "+" в экзамене, куда добавляется заявка. "+" будет только в будущих экзаменах, где есть места.[ Подробнее](./../kvota-na-ekzamen.-gde-posmotret)
 
    ![](./dobavlenie-zayavki-vruchnuyu-3.png){width=768px height=296px}
 

@@ -43,8 +43,6 @@ title: Добавление заявки вручную
 
 1. ![](./dobavlenie-zayavki-vruchnuyu-4.png){width=768px height=300px}
 
-   
-
    Разрешает использование камеры для  [https://flow.migrant-exam.ru](https://flow.migrant-exam.ru/) если это не было сделано ранее)
 
 ![](./dobavlenie-zayavki-vruchnuyu-5.png){width=768px height=341px}
@@ -83,7 +81,7 @@ title: Добавление заявки вручную
 
 [tabs]
 
-[tab:На странице создания/редактирования]
+[tab:На странице создания/редак тирования]
 
 При создании или редактировании заявки в правом нижнем углу страницы
 

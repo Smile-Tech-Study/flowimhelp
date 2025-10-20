@@ -99,21 +99,15 @@ title: Добавление заявки вручную
 
 На странице заявки в блоке «Экзамен»
 
-![](./dobavlenie-zayavki-vruchnuyu-8.png){width=1254px height=648px}
-
-[/tab]
-
-[tab:Из ЛК сдающего]
-
-Если заявка подана удаленно, то сдающий сможет в личном кабинете сам посмотреть и при необходимости распечатать приглашение на экзамен.
-
-![](./dobavlenie-zayavki-vruchnuyu-8.png){width=1270px height=642px}
+![](./dobavlenie-zayavki-vruchnuyu-8.png){width=1256px height=694px}
 
 
 
 [/tab]
 
 [/tabs]
+
+
 
 ## Редактирование/дополнение/ изменения в созданной заявке
 

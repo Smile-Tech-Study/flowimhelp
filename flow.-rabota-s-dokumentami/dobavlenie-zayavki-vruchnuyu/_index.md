@@ -7,7 +7,7 @@ title: Добавление заявки вручную
 
 ![](./dobavlenie-zayavki-vruchnuyu.png){width=531px height=556px}
 
-
+## Выберите способ создания заявки
 
 [tabs]
 
@@ -17,7 +17,7 @@ title: Добавление заявки вручную
 
 2. Создайте заявку
 
-   ![](./dobavlenie-zayavki-vruchnuyu-2.png){width=768px height=305px}
+   ![](./dobavlenie-zayavki-vruchnuyu-2.png){width=2062px height=672px}
 
 [/tab]
 
@@ -41,6 +41,10 @@ title: Добавление заявки вручную
 
 1. ![](./dobavlenie-zayavki-vruchnuyu-4.png){width=768px height=300px}
 
+2.  
+
+   ![](./dobavlenie-zayavki-vruchnuyu-4.png){width=768px height=300px}
+
    Разрешает использование камеры для  [https://flow.migrant-exam.ru](https://flow.migrant-exam.ru/) если это не было сделано ранее)
 
 ![](./dobavlenie-zayavki-vruchnuyu-5.png){width=768px height=341px}
@@ -49,11 +53,13 @@ title: Добавление заявки вручную
 
 ![](./dobavlenie-zayavki-vruchnuyu-6.png){width=768px height=306px}
 
-С QR-кода считываются данные человека и создается заявка.
+
+
+1. С QR-кода считываются данные человека и создается заявка.
 
 Сотрудник дозаполняет созданную заявку недостающими данными и сканами документов.
 
-В дальнейшем при создании заявки из QR-кода планируется получать больше необходимых для заполнения заявки данных и сканы документов.
+[highlight:grayish-blue]В дальнейшем при создании заявки из QR-кода планируется получать больше необходимых для заполнения заявки данных и сканы документов[/highlight].
 
 [/tab]
 

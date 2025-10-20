@@ -85,9 +85,7 @@ title: Добавление заявки вручную
 
 При создании или редактировании заявки в правом нижнем углу страницы
 
-![](./dobavlenie-zayavki-vruchnuyu-9.png){width=1264px height=642px}
-
-
+![](./dobavlenie-zayavki-vruchnuyu-9.png){width=1274px height=624px}
 
 [/tab]
 

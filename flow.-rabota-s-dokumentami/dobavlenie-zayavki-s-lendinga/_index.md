@@ -17,12 +17,10 @@ title: Добавление заявки с лендинга
 
 :::
 
-[video:https://www.dropbox.com/scl/fi/uu3vb6zzgjuzj08tw0jn6/.mp4?rlkey=dywouuv6dy81iboiw3lur1aog&st=hh1h04a7&dl=0:От подачи заявки]
+[video:https://www.dropbox.com/scl/fi/uu3vb6zzgjuzj08tw0jn6/.mp4?rlkey=dywouuv6dy81iboiw3lur1aog&st=sh9mrq7f&dl=0:От подачи заявки]
 
 :::info 
 
-В случае, если видео будет недоступно к просмотру, можно перейти по [ссылке](https://owncloud.smile-tech.study/s/gFm21Rpl7y2wfm9) 
+В случае, если видео будет недоступно к просмотру, можно перейти по [ссылке](https://owncloud.smile-tech.study/s/gFm21Rpl7y2wfm9)
 
 :::
-
-

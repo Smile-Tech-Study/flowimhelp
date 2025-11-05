@@ -17,7 +17,7 @@ title: Добавление заявки с лендинга
 
 :::
 
-[video:https://www.dropbox.com/scl/fi/uu3vb6zzgjuzj08tw0jn6/.mp4?rlkey=dywouuv6dy81iboiw3lur1aog&st=sh9mrq7f&dl=0:От подачи заявки]
+[video:https://www.dropbox.com/scl/fi/uu3vb6zzgjuzj08tw0jn6/.mp4?rlkey=dywouuv6dy81iboiw3lur1aog&st=sh9mrq7f&dl=0]
 
 :::info 
 

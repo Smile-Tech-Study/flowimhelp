@@ -5,16 +5,14 @@ title: Для сдающих
 
 :::info 
 
-Справочная информация для сдающих доступна по [**ссылке **](https://www.flow-crm.study/flowimgrhelp)
+Справочная информация для сдающих доступна по [\*\*ссылке \*\*](https://www.flow-crm.study/flowimgrhelp)
 
 :::
 
 :::tip 
 
-Видео с демонстрацией экзамена для сдающих можно посмотреть [**здесь**](https://owncloud.smile-tech.study/s/fy0ZyIhMSmIsbA3)
+Видео с демонстрацией экзамена для сдающих можно посмотреть [**здесь**](https://owncloud.smile-tech.study/s/HR5brYRqUjJyVyZ)
 
 ![](./dlya-sdayuschikh.png){width=1524px height=986px}
 
 :::
-
-

@@ -9,9 +9,9 @@ title: Flow.Как войти с Яндекс ID
 
 Ссылка для скачивания [RuStore](https://www.rustore.ru/catalog/app/ru.yandex.key)
 
-Ссылка для скачивания [Google Play](https://play.google.com/store/apps/details?id=ru.yandex.key) 
+Ссылка для скачивания [Google Play](https://play.google.com/store/apps/details?id=ru.yandex.key)
 
-Ссылка для скачивания [App Store](https://apps.apple.com/ru/app/яндекс-ключ-ваши-пароли/id957324816) 
+Ссылка для скачивания [App Store](https://apps.apple.com/ru/app/яндекс-ключ-ваши-пароли/id957324816)
 
 2\.Перейдите на [страницу авторизации](https://2025.flow.tgu-dpo.ru/Account/Login1FA). Если авторизированы, то необходимо выйти.
 
@@ -19,9 +19,9 @@ title: Flow.Как войти с Яндекс ID
 
 4\.Если учетная запись ещё не привязана к Яндекс ID, то отобразится QR код.
 
-![](./kak-voiti-s-yandeks.klyuch-2.png){width=577px height=602px}
+![](./kak-voyti-s-yandex-klyuch.png){width=564px height=590px}
 
-5\.Откройте Яндекс ID на телефоне и нажмите знак «+», чтобы добавить новый аккаунт. 
+5\.Откройте Яндекс ID на телефоне и нажмите знак «+», чтобы добавить новый аккаунт.
 
 ![](./kak-voiti-s-yandeks.klyuch.png){width=300px height=470px}
 

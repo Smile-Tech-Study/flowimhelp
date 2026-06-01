@@ -103,15 +103,7 @@ title: Агент сканирования Flow - интерфейс
     </div>
   </div>
 
-  <div class="toc">
-    <div class="toc-label">Содержание</div>
-    <ol>
-      <li><a href="#interface">Обзор интерфейса</a></li>
-      <li><a href="#filetypes">Типы файлов</a></li>
-      <li><a href="#nodevices">Если сканеры не найдены</a></li>
-      <li><a href="#os">Особенности Windows и Linux</a></li>
-    </ol>
-  </div>
+
 
   <div class="section" id="interface">
     <div class="section-title"><span class="num">1</span> Обзор интерфейса</div>

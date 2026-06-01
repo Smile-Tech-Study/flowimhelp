@@ -109,16 +109,6 @@ title: Агент сканирования Flow - установка
     </div>
   </div>
 
-  <div class="toc">
-    <div class="toc-label">Содержание</div>
-    <ol>
-      <li><a href="#about">О функции сканирования</a></li>
-      <li><a href="#download">Загрузка установщика</a></li>
-      <li><a href="#install-win">Установка на Windows</a></li>
-      <li><a href="#install-linux">Установка на Linux</a></li>
-      <li><a href="#drivers">Установка драйверов сканера</a></li>
-    </ol>
-  </div>
 
   <div class="section" id="about">
     <div class="section-title"><span class="num">1</span> О функции сканирования</div>

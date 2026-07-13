@@ -30,3 +30,7 @@ order: 10
 ![](./ekzamen-prinyat-bez-narushenii-4.png){width=768px height=253px}
 
 В этом случае сдающий должен заново записаться на экзамен и повторно его оплатить.
+
+Массово отметить отсутствие нарушений можно по кнопке «Нарушений нет» на странице экзамена.
+
+![](./ekzamen-prinyat-bez-narushenii-5.png){width=996px height=517px}

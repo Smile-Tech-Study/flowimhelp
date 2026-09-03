@@ -17,7 +17,11 @@ order: 0.96
 
    ![](./proverka-itoga-ekzamena-3.png){width=1100px height=752px}
 
-4. Выставить статус экзамена и сохранить.
+4. На странице итога экзамена выводятся данные по попытке, на основании которой выставляется статус активности: 
+
+   ![](./proverka-itoga-ekzamena.webp){width=949px height=525px}
+
+5. Выставить статус экзамена и сохранить.
 
    ![](./proverka-itoga-ekzamena-4.png){width=1098px height=438px}
 

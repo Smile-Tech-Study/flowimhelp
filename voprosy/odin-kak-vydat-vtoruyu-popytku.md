@@ -1,6 +1,6 @@
 ---
 title: Odin Как выдать вторую попытку?
-order: 14
+order: 18
 ---
 
 :::danger 

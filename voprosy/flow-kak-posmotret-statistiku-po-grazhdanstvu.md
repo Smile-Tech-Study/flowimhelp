@@ -1,5 +1,5 @@
 ---
-order: 27
+order: 28
 title: Flow. Как посмотреть статистику по гражданству?
 ---
 
@@ -10,5 +10,3 @@ title: Flow. Как посмотреть статистику по гражда�
 И далее пролистать страницу вниз до дашборда.
 
 ![](./flow-kak-posmotret-statistiku-po-grazhdanstvu.jpeg){width=1280px height=462px}
-
-

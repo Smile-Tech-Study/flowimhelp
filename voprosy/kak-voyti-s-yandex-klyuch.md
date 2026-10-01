@@ -1,5 +1,5 @@
 ---
-order: 4.96
+order: 8
 title: Flow.Как войти с Яндекс ID
 ---
 
